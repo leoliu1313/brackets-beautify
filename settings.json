@@ -1,7 +1,7 @@
 {
     "preserve_newlines": true,
     "max_preserve_newlines": 10,
-	"consistent_comment_rule": true,
+    "consistent_comment_rule": true,
     "jslint_happy": true,
     "keep_array_indentation": true,
     "space_before_conditional": true,
